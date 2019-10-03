@@ -458,3 +458,39 @@ Venue Location: Boston, MA, United States
 Venue Time: 12/15/2019, 6:00 PM
 
 -----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Truth Hurts
+
+Artist(s): Lizzo
+
+Album: Cuz I Love You (Deluxe)
+
+Preview Link: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=f53d6f34ea8646ad8402d455b2eb4065
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Truth Hurts
+
+Artist(s): Lizzo
+
+Album: Cuz I Love You (Deluxe)
+
+Preview Link: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=f53d6f34ea8646ad8402d455b2eb4065
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Hate Me (with Juice WRLD)
+
+Artist(s): Ellie Goulding
+
+Album: Hate Me (with Juice WRLD)
+
+Preview Link: null
+
+-------------------------------------------------------
