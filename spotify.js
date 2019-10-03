@@ -16,14 +16,10 @@ function mySpotify(userInput) {
         if (err) {
           return console.log('Error occurred: ' + err);
         }
-       
-    //   console.log(data.tracks.items[0]); 
+     
       console.log("\n---------------------\nSong Name: " + data.tracks.items[0].name);
       console.log("Artist(s) Name: "+ data.tracks.items[0].artists[0].name);
       console.log("Album Name: "+ data.tracks.items[0].album.name);
-    //   data.tracks.items[0].artists.forEach(artist => {
-    //       console.log(artist.name)
-    //   })
       console.log("Preview URL: " + data.tracks.items[0].preview_url+"\n---------------\n");
 
      //adds text to log.txt
