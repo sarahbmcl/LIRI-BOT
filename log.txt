@@ -1474,3 +1474,149 @@ Album: The Hits--Chapter One
 Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f53d6f34ea8646ad8402d455b2eb4065
 
 -------------------------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Austin City Limits Music Festival
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 10/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oh, What a World: Tour II
+
+Venue Location: Irving, TX, United States
+
+Venue Time: 10/10/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oh, What a World: Tour II
+
+Venue Location: Irving, TX, United States
+
+Venue Time: 10/11/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Austin City Limits Music Festival
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 10/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oh, What a World: Tour II
+
+Venue Location: New York, NY, United States
+
+Venue Time: 10/15/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oh, What a World: Tour II
+
+Venue Location: New York, NY, United States
+
+Venue Time: 10/16/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oh, What a World: Tour II
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 10/25/2019, 7:30 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Intersect Festival
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 12/06/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oh, What a World: Tour II
+
+Venue Location: Mexico City, , Mexico
+
+Venue Time: 03/21/2020, 8:00 PM
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Lucid Dreams
+
+Artist(s): Juice WRLD
+
+Album: Goodbye & Good Riddance
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Truth Hurts
+
+Artist(s): Lizzo
+
+Album: Cuz I Love You (Deluxe)
+
+Preview Link: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=f53d6f34ea8646ad8402d455b2eb4065
+
+-------------------------------------------------------
+
+Movie Search Log----------------------
+
+Year: 2019
+
+IMDB Rating: 8.0
+
+Rotten Tomatoes: 95%
+
+Country: USA
+
+Language: English
+
+Plot: Zak runs away from his care home to make his dream of becoming a wrestler come true.
+
+Year: 2019
+
+Actors: Shia LaBeouf, Dakota Johnson, Zack Gottsagen, John Hawkes
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f53d6f34ea8646ad8402d455b2eb4065
+
+-------------------------------------------------------

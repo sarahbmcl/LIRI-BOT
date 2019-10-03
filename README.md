@@ -13,3 +13,6 @@ Use the following commands to activate LIRI:
 * spotify-this-song (followed by a song)
 * movie-this (followed by a movie)
 * do-what-it-says (to run random.txt)
+
+Link to running application overview
+https://drive.google.com/file/d/1k3qsJaM3RYUyuiecz3BekZfi3aH3VlLu/view
