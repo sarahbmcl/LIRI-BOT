@@ -1,20 +1,19 @@
 // Requiring our spotify, OMDB, and bands in town modules exported from keys.js
-var keys = require("./keys");
+let keys = require("./keys");
 //Require data from File System npm package
-var fs = require("fs");
+let fs = require("fs");
 //Require data from Axios npm package
-var axios = require("axios");
+let axios = require("axios");
 //Require data from moment npm package
-var moment = require('moment');
+let moment = require('moment');
 
 function myConcert(userInput) {
-    var artist = userInput;
-    var url = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + keys.bandsInTown.id;
+    let artist = userInput;
+    let url = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + keys.bandsInTown.id;
 
     axios.get(url).then(
         function (response) {
-            // console.log(response.data)
-            for (var i = 0; i < response.data.length; i++) {
+            for (let i = 0; i < response.data.length; i++) {
                 console.log("Concert Time: " + moment(response.data[i].datetime, 'YYYY-MM-DDTHH:mm:ss').format('MM/DD/YYYY, h:mm A'));
                 console.log("Concert Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region + ", " + response.data[i].venue.country);
                 console.log("Concert Venue: " + response.data[i].venue.name);
