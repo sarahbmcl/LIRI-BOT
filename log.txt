@@ -1,0 +1,40 @@
+
+Concert Search Log----------------------
+
+Venue Name: Fort de Tourneville
+
+Venue Location: Le Havre, , France
+
+Venue Time: 10/16/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FORT DE TOURNEVILLE
+
+Venue Location: Le Havre, , France
+
+Venue Time: 10/18/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Salle Pleyel
+
+Venue Location: Paris, , France
+
+Venue Time: 10/19/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: DE ROMA
+
+Venue Location: Borgerhout, , Belgium
+
+Venue Time: 10/25/2019, 8:00 PM
+
+-----------------------------------------

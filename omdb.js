@@ -45,5 +45,5 @@ function myMovies(userInput) {
 };
 
 
-// Exporting the function which we will use in main.js
+// Exporting the function which we will use in liri.js
 module.exports = myMovies;

@@ -1,16 +1,14 @@
 //Require data from node-spotify npm package
-var Spotify = require('node-spotify-api');
+let Spotify = require('node-spotify-api');
 // Requiring our spotify, OMDB, and bands in town modules exported from keys.js
-var keys = require("./keys");
+let keys = require("./keys");
 // Storing API keys in variables.
-var spotify = new Spotify(keys.spotify);
+let spotify = new Spotify(keys.spotify);
 //Require data from File System npm package
-var fs = require("fs");
-
-
+let fs = require("fs");
 
 function mySpotify(userInput) {
-    var song = userInput;
+    let song = userInput;
     if (!song) {
         song = "the sign Ace of Base" 
     }
@@ -38,6 +36,5 @@ function mySpotify(userInput) {
     });
     }
 
-
-// Exporting the function which we will use in main.js
+// Exporting the function which we will use in liri.js
 module.exports = mySpotify;
